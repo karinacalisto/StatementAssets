@@ -1,0 +1,13 @@
+﻿global using Data.Shared.Extensions;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Statement.Data.DbContexts.Mapping;
+global using Statement.Entities;
+global using StatementConfig = Statement.Configuration;
+global using Statement.UseCases.Ingestion.Contracts;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using Statement.Data.DbContexts.Context;
+global using Statement.UseCases.GetExtractList;
+global using Statement.UseCases.GetExtractList.Contracts;

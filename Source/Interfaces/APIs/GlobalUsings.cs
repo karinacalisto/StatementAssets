@@ -1,0 +1,12 @@
+﻿global using StatementContract = Statement.UseCases.GetExtractList.Contracts;
+global using Shared.UseCases;
+global using Statement.UseCases.GetExtractList;
+global using Microsoft.AspNetCore.Mvc;
+global using Amazon;
+global using Microsoft.OpenApi.Models;
+global using Statement;
+global using Statement.Data.DbContexts.Context;
+global using System.Reflection;
+global using Serilog;
+global using Statement.Data.DbContexts.UseCases.Statement;
+global using Statement.UseCases.GetExtractList.Contracts;

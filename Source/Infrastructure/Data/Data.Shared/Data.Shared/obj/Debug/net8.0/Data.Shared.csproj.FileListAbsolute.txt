@@ -1,0 +1,12 @@
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\bin\Debug\net8.0\Data.Shared.deps.json
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\bin\Debug\net8.0\Data.Shared.dll
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\bin\Debug\net8.0\Data.Shared.pdb
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.csproj.AssemblyReference.cache
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.AssemblyInfoInputs.cache
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.AssemblyInfo.cs
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.csproj.CoreCompileInputs.cache
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.dll
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\refint\Data.Shared.dll
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\Data.Shared.pdb
+C:\Repo\StatementAssets\Source\Infrastructure\Data\Data.Shared\Data.Shared\obj\Debug\net8.0\ref\Data.Shared.dll

@@ -1,0 +1,15 @@
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\bin\Debug\net8.0\Statement.deps.json
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\bin\Debug\net8.0\Statement.dll
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\bin\Debug\net8.0\Statement.pdb
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\bin\Debug\net8.0\Shared.dll
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\bin\Debug\net8.0\Shared.pdb
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.csproj.AssemblyReference.cache
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.AssemblyInfoInputs.cache
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.AssemblyInfo.cs
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.csproj.CoreCompileInputs.cache
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.csproj.Up2Date
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.dll
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\refint\Statement.dll
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\Statement.pdb
+C:\Repo\StatementAssets\Source\Core\Ingestion\Statement\obj\Debug\net8.0\ref\Statement.dll

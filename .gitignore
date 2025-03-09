@@ -1,0 +1,15 @@
+# Ignore environment configuration files
+.env
+.aws
+
+# Ignore user-specific files
+*.log
+*.tmp
+*.swp
+
+# Ignore user-specific directories
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
