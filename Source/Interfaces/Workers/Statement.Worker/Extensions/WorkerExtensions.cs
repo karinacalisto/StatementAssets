@@ -20,8 +20,8 @@ public static class WorkerExtensions
             Configuration.Name = configuration.GetValue<string>("ApplicationName");
             configuration.GetSection("Azure").Bind(Configuration.Azure);
             configuration.GetSection("ConnectionStrings").Bind(Configuration.Database);
-            configuration.GetSection("Logging").Bind(Configuration.Logging);
-            configuration.GetSection("RabbitMq").Bind(Configuration.RabbitMqConfiguration);
+            configuration.GetSection("Logging").Bind(Configuration.Loggin);
+            configuration.GetSection("RabbitMq").Bind(Configuration.RabbitMq);
             configuration.GetSection("Queues").Bind(Configuration.QueueAndExchange);
             configuration.GetSection("SecureGateway").Bind(Configuration.SecureGateway);
 
